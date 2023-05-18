@@ -9,5 +9,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - ptbr.md
-  - en.md
+  - README.md
